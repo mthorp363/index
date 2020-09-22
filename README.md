@@ -12,7 +12,7 @@ I have an international business and finance related Bachelors, with a focus on 
 [Project 1: Monte Carlo Airports](https://mthorp363.github.io/monte_carlo_airports/)
 
 Insights from a Black Swan Event Monte Carlo Simulation on International Flight Numbers.
-<details open>
+<details>
 <summary>Details:</summary>
 <br>
 Language(s) and libraries: <br>
@@ -37,7 +37,7 @@ Skills:
 
 An analysis of the correlation between corruption ratings and cultural dimensions
 
-<details open>
+<details>
 <summary>Details:</summary>
 <br>
 Language(s) and libraries: <br>
@@ -81,14 +81,6 @@ Skills:
 - Interactivity
 
 </details>
-import pandas as pd
-import numpy as np
-import seaborn as sns
-import regex as re
-import missingno as msno
-import ipywidgets as widgets
-import plotly 
-
 
 
 ## Qualifications
