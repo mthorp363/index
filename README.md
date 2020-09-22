@@ -36,10 +36,13 @@ Skills:
 
 </details>
 
+<br>
+
 [Project 2: Hofstede's 6 Dimensions and Corruption](https://mthorp363.github.io/culture_and_corruption/)
 
 
 ![Feature selection](corruption_features.png)
+<br>
 
 An analysis of the correlation between corruption ratings and cultural dimensions
 
@@ -63,11 +66,12 @@ Skills:
 
 </details>
 
+<br>
 [Project 3: Visualising Santander's 2020 Branch Closures](https://mthorp363.github.io/santander_branch_closures/)
 ![Santander Visualisation](newplot.png)
 
 Visualisation of Santander's 2020 branch closures
-
+<br>
 <details>
 <summary>Details:</summary>
 <br>
