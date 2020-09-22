@@ -37,6 +37,7 @@ Skills:
 
 An analysis of the correlation between corruption ratings and cultural dimensions
 
+<details open>
 <summary>Details:</summary>
 <br>
 Language(s) and libraries: <br>
@@ -58,6 +59,7 @@ Skills:
 
 [Project 3: Visualising Santander's 2020 Branch Closures](https://mthorp363.github.io/santander_branch_closures/)
 
+<details>
 <summary>Details:</summary>
 <br>
 Language(s) and libraries: <br>
