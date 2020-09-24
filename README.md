@@ -9,7 +9,7 @@ I have an international business and finance related Bachelors, with a focus on 
 
 ## Projects
 
-[Project 1: Monte Carlo Airports](https://mthorp363.github.io/monte_carlo_airports/)
+### [Project 1: Monte Carlo Airports](https://mthorp363.github.io/monte_carlo_airports/)
 
 ![Monte Carlo model output](mc_model_output.png)
 
@@ -38,7 +38,7 @@ Skills:
 
 <br>
 
-[Project 2: Hofstede's 6 Dimensions and Corruption](https://mthorp363.github.io/culture_and_corruption/)
+### [Project 2: Hofstede's 6 Dimensions and Corruption](https://mthorp363.github.io/culture_and_corruption/)
 
 
 ![Feature selection](corruption_features.png)
@@ -67,7 +67,7 @@ Skills:
 </details>
 
 
-[Project 3: Visualising Santander's 2020 Branch Closures](https://mthorp363.github.io/santander_branch_closures/) 
+### [Project 3: Visualising Santander's 2020 Branch Closures](https://mthorp363.github.io/santander_branch_closures/) 
 ![Santander Visualisation](newplot.png)
 
 Visualisation of Santander's 2020 branch closures
@@ -98,13 +98,17 @@ Skills:
 
 ## Qualifications
 
-[Applied Data Science with Python Specialisation](https://www.coursera.org/account/accomplishments/specialization/9FJE8W2RKRFS)
+### [Applied Data Science with Python Specialisation](https://www.coursera.org/account/accomplishments/specialization/9FJE8W2RKRFS)
 University of Michigan (August 2020)
+
+This course covered a wide range of different areas within data science including ethics, t-testing and AI.
+
+For more information, [click here](https://www.coursera.org/specializations/data-science-python)
 
 Courses:
 
-- Applied Plotting, Charting & Data Representation in Python
 - Introduction to Data Science in Python
+- Applied Plotting, Charting & Data Representation in Python
 - Applied Machine Learning in Python
 - Applied Text Mining in Python
 - Applied Social Network Analysis in Python
@@ -124,8 +128,12 @@ Skills:
 
 
 
-[Python for Everybody Specialisation](https://www.coursera.org/account/accomplishments/specialization/CYF7KJENMFGZ) 
+### [Python for Everybody Specialisation](https://www.coursera.org/account/accomplishments/specialization/CYF7KJENMFGZ) 
 University of Michigan (April 2020)
+
+This specialisation covered a broad range of different computer science and data science topics such as working with APIs, relational databases and integrating python with other languages (SQL/Javascript/HTML).
+
+For more information, [click here](https://www.coursera.org/specializations/python?skipBrowseRedirect=true)
 
 Courses:
 
