@@ -14,86 +14,27 @@ Insights from a Black Swan Event Monte Carlo Simulation on International Flight 
 
 ![Monte Carlo model output](mc_model_output.png)
 
+Language(s): Python
 
-
-<details>
-<summary>Details:</summary>
-<br>
-Language(s) and libraries: <br>
-
-Python:<br>
-- Pandas
-- Numpy
-- Networkx
-- Seaborn
-- Matplotlib
-- Random
-
-Skills:
-- Data cleaning
-- Social networks
-- Data exploration
-- Data visualisation
-
-</details>
-
-<br>
+Key libraries: Networkx, pandas, matplotlib
 
 ### [Project 2: Hofstede's 6 Dimensions and Corruption](https://mthorp363.github.io/culture_and_corruption/)
-An analysis of the correlation between corruption ratings and cultural dimensions.
+An analysis of the correlation between corruption ratings and cultural dimensions for feature selection.
 
 ![Feature selection](corruption_features.png)
-<br>
 
-<details>
-<summary>Details:</summary>
-<br>
-Language(s) and libraries: <br>
+Language(s): Python
 
-Python:<br>
-- Pandas
-- Numpy
-- Seaborn
-- Matplotlib
-- Missingno 
-
-Skills:
-- Data cleaning
-- Feature Selection
-- Data exploration
-- Data visualisation
-
-</details>
-
+Key libraries: Pandas, matplotlib, missingno
 
 ### [Project 3: Visualising Santander's 2020 Branch Closures](https://mthorp363.github.io/santander_branch_closures/) 
 Visualisation of Santander's 2020 branch closures.
+
 ![Santander Visualisation](newplot.png)
 
+Language(s): Python
 
-<br>
-<details>
-<summary>Details:</summary>
-<br>
-Language(s) and libraries: <br>
-
-Python:<br>
-- Pandas
-- Numpy
-- Regex
-- Ipywidgets
-- Plotly
-- Seaborn
-- Matplotlib
-- Missingno 
-
-Skills:
-- Data cleaning
-- Data exploration
-- Data visualisation
-- Interactivity
-
-</details>
+Key libraries: Regex, plotly, ipywidgets
 
 
 ## Qualifications
@@ -110,23 +51,36 @@ For more information, [click here](https://www.coursera.org/specializations/data
  <br>
 Courses:
 <br>
+
 - Introduction to Data Science in Python
+ 
 - Applied Plotting, Charting & Data Representation in Python
+
 - Applied Machine Learning in Python
+
 - Applied Text Mining in Python
+
 - Applied Social Network Analysis in Python
 <br>
 Skills:
 <br>
+
 - Python Programming
+
 - Text Mining
+
 - Pandas
+
 - Matplotlib
+
 - Numpy
+
 - Data Cleansing
-- Data Virtualization
+
 - Machine Learning
+
 - Scikit-Learn
+
 - Natural Language Toolkit (NLTK)
 <br>
 </details>
@@ -143,21 +97,34 @@ For more information, [click here](https://www.coursera.org/specializations/pyth
 
 Courses:
 <br>
+
 - Programming for Everybody (Getting Started with Python)
+
 - Using Databases with Python
+
 - Python Data Structures
+
 - Using Python to Access Web Data
+
 - Capstone: Retrieving, Processing, and Visualizing Data with Python
 <br>
 Skills:
 <br>
+
 - Python Programming
+
 - Json
+
 - Xml
+
 - Database (DBMS)
+
 - Data Structures
+
 - Web Scraping
+
 - Sqlite
+
 - SQL
 <br>
 </details>
