@@ -10,10 +10,11 @@ I have an international business and finance related Bachelors, with a focus on 
 ## Projects
 
 ### [Project 1: Monte Carlo Airports](https://mthorp363.github.io/monte_carlo_airports/)
+Insights from a Black Swan Event Monte Carlo Simulation on International Flight Numbers.
 
 ![Monte Carlo model output](mc_model_output.png)
 
-Insights from a Black Swan Event Monte Carlo Simulation on International Flight Numbers.
+
 
 <details>
 <summary>Details:</summary>
@@ -39,12 +40,10 @@ Skills:
 <br>
 
 ### [Project 2: Hofstede's 6 Dimensions and Corruption](https://mthorp363.github.io/culture_and_corruption/)
-
+An analysis of the correlation between corruption ratings and cultural dimensions.
 
 ![Feature selection](corruption_features.png)
 <br>
-
-An analysis of the correlation between corruption ratings and cultural dimensions
 
 <details>
 <summary>Details:</summary>
@@ -68,9 +67,10 @@ Skills:
 
 
 ### [Project 3: Visualising Santander's 2020 Branch Closures](https://mthorp363.github.io/santander_branch_closures/) 
+Visualisation of Santander's 2020 branch closures.
 ![Santander Visualisation](newplot.png)
 
-Visualisation of Santander's 2020 branch closures
+
 <br>
 <details>
 <summary>Details:</summary>
