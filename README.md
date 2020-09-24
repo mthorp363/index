@@ -129,7 +129,7 @@ Skills:
 - Scikit-Learn
 - Natural Language Toolkit (NLTK)
 
-<\details>
+</details>
 
 ### [Python for Everybody Specialisation](https://www.coursera.org/account/accomplishments/specialization/CYF7KJENMFGZ) 
 University of Michigan (April 2020)
@@ -160,4 +160,4 @@ Skills:
 - Sqlite
 - SQL
 
-<\details>
+</details>
