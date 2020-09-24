@@ -107,17 +107,17 @@ For more information, [click here](https://www.coursera.org/specializations/data
 
 <details>
 <summary>Details:</summary>
-  
+ <br>
 Courses:
-
+<br>
 - Introduction to Data Science in Python
 - Applied Plotting, Charting & Data Representation in Python
 - Applied Machine Learning in Python
 - Applied Text Mining in Python
 - Applied Social Network Analysis in Python
-
+<br>
 Skills:
-
+<br>
 - Python Programming
 - Text Mining
 - Pandas
@@ -128,7 +128,7 @@ Skills:
 - Machine Learning
 - Scikit-Learn
 - Natural Language Toolkit (NLTK)
-
+<br>
 </details>
 
 ### [Python for Everybody Specialisation](https://www.coursera.org/account/accomplishments/specialization/CYF7KJENMFGZ) 
@@ -142,15 +142,15 @@ For more information, [click here](https://www.coursera.org/specializations/pyth
 <summary>Details:</summary>
 
 Courses:
-
+<br>
 - Programming for Everybody (Getting Started with Python)
 - Using Databases with Python
 - Python Data Structures
 - Using Python to Access Web Data
 - Capstone: Retrieving, Processing, and Visualizing Data with Python
-
+<br>
 Skills:
-
+<br>
 - Python Programming
 - Json
 - Xml
@@ -159,5 +159,5 @@ Skills:
 - Web Scraping
 - Sqlite
 - SQL
-
+<br>
 </details>
