@@ -105,6 +105,9 @@ This course covered a wide range of different areas within data science includin
 
 For more information, [click here](https://www.coursera.org/specializations/data-science-python)
 
+<details>
+<summary>Details:</summary>
+  
 Courses:
 
 - Introduction to Data Science in Python
@@ -126,7 +129,7 @@ Skills:
 - Scikit-Learn
 - Natural Language Toolkit (NLTK)
 
-
+<\details>
 
 ### [Python for Everybody Specialisation](https://www.coursera.org/account/accomplishments/specialization/CYF7KJENMFGZ) 
 University of Michigan (April 2020)
@@ -134,6 +137,9 @@ University of Michigan (April 2020)
 This specialisation covered a broad range of different computer science and data science topics such as working with APIs, relational databases and integrating python with other languages (SQL/Javascript/HTML).
 
 For more information, [click here](https://www.coursera.org/specializations/python?skipBrowseRedirect=true)
+
+<details>
+<summary>Details:</summary>
 
 Courses:
 
@@ -153,3 +159,5 @@ Skills:
 - Web Scraping
 - Sqlite
 - SQL
+
+<\details>
