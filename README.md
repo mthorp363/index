@@ -48,11 +48,11 @@ For more information, [click here](https://www.coursera.org/specializations/data
 
 <details>
 <summary>Details:</summary>
- <br>
-Courses: Introduction to Data Science in Python - Applied Plotting, Charting & Data Representation in Python - Applied Machine Learning in Python - Applied Text Mining in Python - Applied Social Network Analysis in Python
-<br>
-Skills: Python Programming - Text Mining - Pandas - Matplotlib - Numpy - Data Cleansing - Machine Learning - Scikit-Learn - Natural Language Toolkit (NLTK)
-<br>
+
+**Courses:** Introduction to Data Science in Python - Applied Plotting, Charting & Data Representation in Python - Applied Machine Learning in Python - Applied Text Mining in Python - Applied Social Network Analysis in Python
+
+**Skills:** Python Programming - Text Mining - Pandas - Matplotlib - Numpy - Data Cleansing - Machine Learning - Scikit-Learn - Natural Language Toolkit (NLTK)
+
 </details>
 
 ### [Python for Everybody Specialisation](https://www.coursera.org/account/accomplishments/specialization/CYF7KJENMFGZ) 
@@ -65,8 +65,8 @@ For more information, [click here](https://www.coursera.org/specializations/pyth
 <details>
 <summary>Details:</summary>
 
-Courses: Programming for Everybody (Getting Started with Python) - Using Databases with Python - Python Data Structures - Using Python to Access Web Data - Capstone: Retrieving, Processing, and Visualizing Data with Python
-<br>
-Skills: Python Programming - Json - Xml - Database (DBMS) - Data Structures - Web Scraping - Sqlite - SQL
+**Courses:** Programming for Everybody (Getting Started with Python) - Using Databases with Python - Python Data Structures - Using Python to Access Web Data - Capstone: Retrieving, Processing, and Visualizing Data with Python
+
+**Skills:** Python Programming - Json - Xml - Database (DBMS) - Data Structures - Web Scraping - Sqlite - SQL
 
 </details>
