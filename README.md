@@ -46,14 +46,15 @@ This course covered a wide range of different areas within data science includin
 
 For more information, [click here](https://www.coursera.org/specializations/data-science-python)
 
-<details>
-<summary>Details:</summary>
+Courses:
 
-**Courses:** Introduction to Data Science in Python - Applied Plotting, Charting & Data Representation in Python - Applied Machine Learning in Python - Applied Text Mining in Python - Applied Social Network Analysis in Python
+Introduction to Data Science in Python - Applied Plotting, Charting & Data Representation in Python - Applied Machine Learning in Python - Applied Text Mining in Python - Applied Social Network Analysis in Python
 
-**Skills:** Python Programming - Text Mining - Pandas - Matplotlib - Numpy - Data Cleansing - Machine Learning - Scikit-Learn - Natural Language Toolkit (NLTK)
+Skills:
 
-</details>
+Python Programming - Text Mining - Pandas - Matplotlib - Numpy - Data Cleansing - Machine Learning - Scikit-Learn - Natural Language Toolkit (NLTK)
+
+
 
 ### [Python for Everybody Specialisation](https://www.coursera.org/account/accomplishments/specialization/CYF7KJENMFGZ) 
 University of Michigan (April 2020)
@@ -62,11 +63,12 @@ This specialisation covered a broad range of different computer science and data
 
 For more information, [click here](https://www.coursera.org/specializations/python?skipBrowseRedirect=true)
 
-<details>
-<summary>Details:</summary>
+Courses: 
 
-**Courses:** Programming for Everybody (Getting Started with Python) - Using Databases with Python - Python Data Structures - Using Python to Access Web Data - Capstone: Retrieving, Processing, and Visualizing Data with Python
+Programming for Everybody (Getting Started with Python) - Using Databases with Python - Python Data Structures - Using Python to Access Web Data - Capstone: Retrieving, Processing, and Visualizing Data with Python
 
-**Skills:** Python Programming - Json - Xml - Database (DBMS) - Data Structures - Web Scraping - Sqlite - SQL
+Skills:
 
-</details>
+Python Programming - Json - Xml - Database (DBMS) - Data Structures - Web Scraping - Sqlite - SQL
+
+
