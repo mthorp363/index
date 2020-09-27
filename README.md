@@ -9,7 +9,11 @@ I have an international business and finance related Bachelors, with a focus on 
 
 ## Projects
 
-### [Project 1: Monte Carlo Airports](https://mthorp363.github.io/monte_carlo_airports/)
+### Project 1: Monte Carlo Airports
+[Executive Summary](https://mthorp363.github.io/monte_carlo_airports/)
+
+[Jupyter Notebook](https://github.com/mthorp363/monte_carlo_airports/blob/master/Main.ipynb)
+
 Insights from a Black Swan Event Monte Carlo Simulation on International Flight Numbers.
 
 ![Monte Carlo model output](mc_model_output.png)
@@ -18,7 +22,12 @@ Language(s): Python
 
 Key libraries: Networkx, pandas, matplotlib
 
-### [Project 2: Hofstede's 6 Dimensions and Corruption](https://mthorp363.github.io/culture_and_corruption/)
+### Project 2: Hofstede's 6 Dimensions and Corruption
+[Executive Summary](https://mthorp363.github.io/culture_and_corruption/)
+
+[Jupyter Notebook](https://github.com/mthorp363/culture_and_corruption/blob/master/Main.ipynb)
+
+
 An analysis of the correlation between corruption ratings and cultural dimensions for feature selection.
 
 ![Feature selection](corruption_features.png)
@@ -29,6 +38,7 @@ Key libraries: Pandas, matplotlib, missingno
 
 ### Project 3: Visualising Santander's 2020 Branch Closures
 [Executive Summary](https://mthorp363.github.io/santander_branch_closures/) 
+
 [Jupyter Notebook](https://github.com/mthorp363/santander_branch_closures/blob/master/Main.ipynb)
 
 An interactive visualisation of Santander's 2020 branch closures.
