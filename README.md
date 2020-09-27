@@ -27,7 +27,10 @@ Language(s): Python
 
 Key libraries: Pandas, matplotlib, missingno
 
-### [Project 3: Visualising Santander's 2020 Branch Closures](https://mthorp363.github.io/santander_branch_closures/) 
+### Project 3: Visualising Santander's 2020 Branch Closures
+[Executive Summary](https://mthorp363.github.io/santander_branch_closures/) 
+[Jupyter Notebook](https://github.com/mthorp363/santander_branch_closures/blob/master/Main.ipynb)
+
 An interactive visualisation of Santander's 2020 branch closures.
 
 ![Santander Visualisation](newplot.png)
