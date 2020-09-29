@@ -9,7 +9,7 @@ I have an international business and finance related Bachelors, with a focus on 
 
 ## Projects
 
-### Project 1: Monte Carlo Airports
+### Monte Carlo Airports
 September 2020
 
 [Executive Summary](https://mthorp363.github.io/monte_carlo_airports/)
@@ -24,7 +24,7 @@ Language(s): Python
 
 Key libraries: Networkx, pandas, matplotlib
 
-### Project 2: Hofstede's 6 Dimensions and Corruption
+### Hofstede's 6 Dimensions and Corruption
 September 2020
 
 [Executive Summary](https://mthorp363.github.io/culture_and_corruption/)
@@ -40,7 +40,7 @@ Language(s): Python
 
 Key libraries: Pandas, matplotlib, missingno
 
-### Project 3: Visualising Santander's 2020 Branch Closures
+### Visualising Santander's 2020 Branch Closures
 September 2020
 
 [Executive Summary](https://mthorp363.github.io/santander_branch_closures/) 
