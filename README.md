@@ -24,7 +24,7 @@ Language(s): Python
 
 Key libraries: Networkx, pandas, matplotlib
 
-### Hofstede's 6 Dimensions and Corruption
+### Hofstede's 6 Dimensions and Corruption (part1)
 September 2020
 
 [Executive Summary](https://mthorp363.github.io/culture_and_corruption/)
@@ -55,6 +55,11 @@ Language(s): Python
 
 Key libraries: Regex, plotly, ipywidgets
 
+## Projects in development
+
+Pricing tool for tablets based on information scraped from eBay
+CV ranker using keywords
+Hofstede's 6 Dimensions and Corruption (part2): Linear regression predictor from scratch
 
 ## Qualifications
 
