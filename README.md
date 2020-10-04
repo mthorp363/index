@@ -58,7 +58,9 @@ Key libraries: Regex, plotly, ipywidgets
 ## Projects in development
 
 Pricing tool for tablets based on information scraped from eBay
+
 CV ranker using keywords
+
 Hofstede's 6 Dimensions and Corruption (part2): Linear regression predictor from scratch
 
 ## Qualifications
