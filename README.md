@@ -7,6 +7,8 @@ A sample of my projects and qualifications relating to Data Science.
 
 I have an international business and finance related Bachelors, with a focus on resolving novel problems independently and advising non-specialists on a variety of technical subjects. I have a strong interest in business, culture and finance and have sought to express that through my projects. I have completed The University of Michigan's Python for Everybody Course and Applied Data Science with Python, giving me a solid grounding in Python and SQL (SQLite) and in areas such as AI (regression/classification), web scraping, data cleaning, AB testing and others. Please view my qualifications below for more information or contact me on [Linkedin](https://www.linkedin.com/in/thorpmark/) for more information.
 
+[Tableau profile](https://public.tableau.com/profile/mark.thorp8511)
+
 ## Projects
 
 ### Monte Carlo Airports
