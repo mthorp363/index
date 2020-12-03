@@ -11,6 +11,14 @@ I have an international business and finance related Bachelors, with a focus on 
 
 ## Projects
 
+### Simple Selenium web scraper
+
+[Overview](https://mthorp363.github.io/voucher_scraper/]
+
+[Jupyter Notebook](https://github.com/mthorp363/voucher_scraper/blob/main/Udemy%20Freebies%20scraper.ipynb)
+
+This is a simple example of web scraping using the selenium library for Chrome. The aim of this notebook is to harvest URLs for course coupons from [this website](https://www.udemyfreebies.com/) which have may appeared over the last few days. 
+
 ### Monte Carlo Airports
 September 2020
 
