@@ -13,7 +13,7 @@ I have an international business and finance related Bachelors, with a focus on 
 
 ### Simple Selenium web scraper
 
-[Overview](https://mthorp363.github.io/voucher_scraper/]
+[Overview](https://mthorp363.github.io/voucher_scraper/)
 
 [Jupyter Notebook](https://github.com/mthorp363/voucher_scraper/blob/main/Udemy%20Freebies%20scraper.ipynb)
 
