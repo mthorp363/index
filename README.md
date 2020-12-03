@@ -12,6 +12,7 @@ I have an international business and finance related Bachelors, with a focus on 
 ## Projects
 
 ### Simple Selenium web scraper
+December 2020
 
 [Overview](https://mthorp363.github.io/voucher_scraper/)
 
