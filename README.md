@@ -76,10 +76,21 @@ Hofstede's 6 Dimensions and Corruption (part2): Linear regression predictor from
 
 ## Qualifications
 
+### [Databases: Relational Databases and SQL](https://courses.edx.org/certificates/318924e4ed264dbbaa9ae6bc38479fbc)
+Stanford University (December 2020)
+
+This course covered various types of SQL (PostGres, MySQL and SQLite).
+
+- Introduction to the relational model and concepts in relational databases and relational database management systems
+- Comprehensive coverage of SQL, the long-accepted standard query language for relational database management systems
+
+For more information, [click here](https://www.edx.org/course/databases-5-sql)
+
+
 ### [Applied Data Science with Python Specialisation](https://www.coursera.org/account/accomplishments/specialization/9FJE8W2RKRFS)
 University of Michigan (August 2020)
 
-This course covered a wide range of different areas within data science including ethics, t-testing and AI.
+This specialisation covered a wide range of different areas within data science including ethics, t-testing and AI.
 
 For more information, [click here](https://www.coursera.org/specializations/data-science-python)
 
