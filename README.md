@@ -35,21 +35,28 @@ Language(s): Python
 
 Key libraries: Networkx, pandas, matplotlib
 
-### Hofstede's 6 Dimensions and Corruption (part1)
-September 2020
+### Hofstede's 6 Dimensions and Corruption (part1 & 2)
+Part 1: September 2020
 
 [Executive Summary](https://mthorp363.github.io/culture_and_corruption/)
 
-[Jupyter Notebook](https://github.com/mthorp363/culture_and_corruption/blob/master/Main.ipynb)
+[Part 1 Jupyter Notebook](https://github.com/mthorp363/culture_and_corruption/blob/master/Main.ipynb)
 
+[Part 2 Jupyter Notebook](https://github.com/mthorp363/culture_and_corruption/blob/master/Part%202.ipynb)
 
-An analysis of the correlation between corruption ratings and cultural dimensions for feature selection.
+Part 1: An analysis of the correlation between corruption ratings and cultural dimensions for feature selection.
+
+Part2: A linear regression explainer and analysis of the impact of handling missing values
 
 ![Feature selection](corruption_features.png)
 
+![Results](LinRegBox.png)
+
 Language(s): Python
 
-Key libraries: Pandas, matplotlib, missingno
+Key libraries: Pandas, matplotlib, missingno, sklearn
+
+
 
 ### Visualising Santander's 2020 Branch Closures
 September 2020
@@ -72,7 +79,6 @@ Pricing tool for tablets based on information scraped from eBay
 
 CV ranker using keywords
 
-Hofstede's 6 Dimensions and Corruption (part2): Linear regression predictor from scratch
 
 ## Qualifications
 
