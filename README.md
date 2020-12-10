@@ -38,6 +38,8 @@ Key libraries: Networkx, pandas, matplotlib
 ### Hofstede's 6 Dimensions and Corruption (part1 & 2)
 Part 1: September 2020
 
+Part 2: December 2020
+
 [Executive Summary](https://mthorp363.github.io/culture_and_corruption/)
 
 [Part 1 Jupyter Notebook](https://github.com/mthorp363/culture_and_corruption/blob/master/Main.ipynb)
