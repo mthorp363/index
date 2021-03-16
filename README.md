@@ -1,11 +1,11 @@
 # Mark Thorp's Data Science Portfolio
-Frankfurt am Main, Germany
+Witney, UK
 
 A sample of my projects and qualifications relating to Data Science.
 
 ## About me
 
-I have an international business and finance related Bachelors, with a focus on resolving novel problems independently and advising non-specialists on a variety of technical subjects. I have a strong interest in business, culture and finance and have sought to express that through my projects. I have completed The University of Michigan's Python for Everybody Course and Applied Data Science with Python, giving me a solid grounding in Python and SQL (SQLite) and in areas such as AI (regression/classification), web scraping, data cleaning, AB testing and others. Please view my qualifications below for more information or contact me on [Linkedin](https://www.linkedin.com/in/thorpmark/) for more information.
+I have an international business and finance related Bachelors, with a focus on resolving novel problems independently and advising non-specialists on a variety of technical subjects. I have a strong interest in business, culture and finance and have sought to express that through my projects. I have completed courses and independant projects using Python, SQL and Excel in areas such as AI (regression/classification), web scraping, data cleaning, AB testing and others. Please view my qualifications below for more information or contact me on [Linkedin](https://www.linkedin.com/in/thorpmark/) for more information.
 
 [Tableau profile](https://public.tableau.com/profile/mark.thorp8511)
 
@@ -83,6 +83,17 @@ CV ranker using keywords
 
 
 ## Qualifications
+
+### [Excel Skills for Business](https://www.coursera.org/account/accomplishments/specialization/certificate/ES3DBWKGGDKG)
+Macquarie University (March 2021)
+
+This course included the following:
+
+- Design of sophisticated spreadsheets, including professional dashboards, and perform complex calculations using advanced Excel features and techniques. 
+- Management of large datasets, extraction of meaningful information from datasets, presentation of data and effective information extraction. 
+- Data validation and error prevention, automation (basic Macros), application of advanced formulas and conditional logic to help make decisions and create spreadsheets that help forecast and model data.
+
+For more information, [click here](https://www.coursera.org/specializations/excel)
 
 ### [Databases: Relational Databases and SQL](https://courses.edx.org/certificates/318924e4ed264dbbaa9ae6bc38479fbc)
 Stanford University (December 2020)
