@@ -1,11 +1,11 @@
-# Mark Thorp's Data Science Portfolio
-Witney, UK
+# Mark Thorp's Analysis Portfolio
+Oxford, UK
 
-A sample of my projects and qualifications relating to Data Science.
+A sample of my projects and qualifications relating to analysis.
 
 ## About me
 
-I have an international business and finance related Bachelors, with a focus on resolving novel problems independently and advising non-specialists on a variety of technical subjects. I have a strong interest in business, culture and finance and have sought to express that through my projects. I have completed courses and independant projects using Python, SQL and Excel in areas such as AI (regression/classification), web scraping, data cleaning, AB testing and others. Please view my qualifications below for more information or contact me on [Linkedin](https://www.linkedin.com/in/thorpmark/) for more information.
+I am an analyst with experience of working in an Agile environment with a track record of business improvement through the creation of management tools, Power BI dashboards and automations through their entire lifecycle, including documentation. I have a BCS (Hons) with a focus on business and finance and am currently completing the International Diploma in Business Analysis. I have completed courses and independant projects using Python, SQL and Excel in areas such as AI (regression/classification), web scraping, data cleaning, AB testing and others. Please view my qualifications below for more information or contact me on [Linkedin](https://www.linkedin.com/in/thorpmark/) for more information.
 
 [Tableau profile](https://public.tableau.com/profile/mark.thorp8511)
 
